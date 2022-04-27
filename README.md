@@ -11,5 +11,5 @@ matplotlib
 seaborn
 
 copy
-
+#### NOTE:
 ##### Superstore.csv must be in root folder.
