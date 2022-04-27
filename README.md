@@ -2,10 +2,14 @@
 Pandas, Matplotlib, Seaborn 
 
 #### Important Libraries
-pandas\n
-numpy\n
-matplotlib\n
-seaborn\n
-copy\n
+pandas
 
-####### Superstore.csv must be in root folder.
+numpy
+
+matplotlib
+
+seaborn
+
+copy
+
+##### Superstore.csv must be in root folder.
